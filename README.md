@@ -1,1 +1,2 @@
 # Image-processing-ML
+In this tutorial we explore how computer vision models can be used to predict emotions from facial images. The labelled dataset available on Kaggle contains 35,887 images of dimensions  48×48×3 , representing faces expressing 7 fundamental emotions including anger, disgust, fear, happiness, neutral, sadness, and surprise. We aim to approximate the function mapping each image to a set of conditional probabilities corresponding to each emotion using a simple convolutional neural network.
